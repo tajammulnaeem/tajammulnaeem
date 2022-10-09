@@ -2,8 +2,8 @@
 <h3 align = "center"> Working on Web Development</h3>
 <hr>
 
-🔭 I’m currently working on Auto-Grading Project<br>
-🌱 I’m currently learning Flask<br>
+🔭 I’m currently working on React<br>
+🌱 I’m currently learning MERN<br>
 ✨ I'm majoring in Computer Engineering at UET Lahore<br>
 
 <hr>
