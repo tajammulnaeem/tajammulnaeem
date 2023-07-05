@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Tajammul Naeem. 👋</h1>
-<h3 align = "center"> Working on Web Development</h3>
+<h3 align = "center"> Full Stack Web Developer</h3>
 <hr>
 
-🔭 I’m currently working on React<br>
-🌱 I’m currently learning MERN<br>
-✨ I'm majoring in Computer Engineering at UET Lahore<br>
+🔭 I’m currently working on Core Java<br>
+🌱 I’m currently learning KnockoutJS<br>
+✨ I'm a Computer Engineering graduate from UET Lahore<br>
 
 <hr>
 
